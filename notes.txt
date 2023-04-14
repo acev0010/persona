@@ -1,0 +1,19 @@
+** Reminders **
+
+1- Ask if having a local css file is possible
+2- Get the image for the banner
+
+**Resources**
+
+Progres bar: https://wet-boew.github.io/v4.0-ci/demos/meter/meter-en.html
+https://wet-boew.github.io/v4.0-ci/demos/progress/progress-en.html
+
+**Changes to make**
+
+structure the first pharagraph into questions (the current pharagraph answers a lot of important questions but they are all together in the same pharagraph)
+
+creating equal access for everyone: consider adding bullet points
+
+Understanding adaptive techniques, tools and technology: add images
+
+Use templates in the examples

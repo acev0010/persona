@@ -1,0 +1,14 @@
+**UX Research**
+
+Who is this document for? (target audience)
+ 
+A: developers, ui ux designers
+
+What is the porpuse of this document?
+ 
+A: The purpose of this document is to assist the user in understanding how to build personas with disabilities
+
+What problem does this document solve?
+ 
+A: Creating a guide that will help to making an equal access for everyone
+
